@@ -1,0 +1,2 @@
+.amap-logo,.amap-copyright{ display: none!important; }
+
